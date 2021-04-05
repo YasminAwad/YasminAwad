@@ -8,7 +8,7 @@
 <p style="font-size:50px;"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a></p>
 </div>
 <div align="center">
-<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="30px">
+<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="40px">
 </div> 
 </body>
 
