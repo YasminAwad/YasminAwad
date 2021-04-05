@@ -6,7 +6,7 @@
 </div>
 </body>
 
-<p> <img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="20px"> <a href="https://www.instagram.com/yasmin5198/">yasmin5198</a></p>
+<p> <img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="20px"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:50px; color:purple >yasmin5198</a></p>
 
 Here are some ideas to get you started:
 
