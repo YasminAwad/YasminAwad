@@ -12,8 +12,7 @@
 </div> 
 </body>
 
-Here are some ideas to get you started:
-
+# Ciao
 - 🔭 I’m currently working on my exams
 - 🌱 I’m currently learning: 3D Graphics and Japanese language learning
 - 👯 I’m looking for Japanese learners!
