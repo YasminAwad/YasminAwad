@@ -1,4 +1,5 @@
-### __*WELCOME*__
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">WELCOME</span>
+<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG" width="400" height="400" />
 
 <!--
 **YasminAwad/YasminAwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
