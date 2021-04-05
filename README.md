@@ -7,8 +7,8 @@
 <div align="center">
 <img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="30px">
 </div>
+<p style="font-size:50px;"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a></p>
 </body>
-### [yasmin5198](https://www.instagram.com/yasmin5198/)
 
 Here are some ideas to get you started:
 
