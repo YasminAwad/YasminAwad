@@ -7,7 +7,9 @@
 <div align="center">
 <img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="30px">
 </div>
+<div align="center">
 <p style="font-size:50px;"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a></p>
+</div> 
 </body>
 
 Here are some ideas to get you started:
