@@ -1,7 +1,4 @@
-### __**WELCOME**__
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+### __*WELCOME*__
 
 <!--
 **YasminAwad/YasminAwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
