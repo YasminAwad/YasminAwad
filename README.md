@@ -1,5 +1,7 @@
 ### __*WELCOME*__
 
+![](https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG=30x30)
+
 <!--
 **YasminAwad/YasminAwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
