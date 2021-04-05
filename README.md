@@ -5,10 +5,7 @@
 <img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="550" />
 </div> 
 <div align="center">
-<p style="font-size:50px;"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a></p>
-</div>
-<div align="center">
-<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="40px">
+<p style="font-size:50px;"> <img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="30px"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a></p>
 </div> 
 </body>
 
