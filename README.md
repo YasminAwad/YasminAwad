@@ -10,7 +10,7 @@
 </body>
 
 # Hello✨
-<img align="left" src="http://giphygifs.s3.amazonaws.com/media/1jgLDGD1Bn27e/giphy.gif" width="50px">
+<img align="left" src="http://giphygifs.s3.amazonaws.com/media/1jgLDGD1Bn27e/giphy.gif" width="40px">
 <img align="right" src="https://c.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="50px">
 I am a 23yo girl, currently attending the Master's Degree in Computer Science Engineering at the 'Politecnico di Milano' University. I got my Bachelor's Degree in Computer Science Engineering in 2020 at the 'Università degli Studi di Firenze'.
 
