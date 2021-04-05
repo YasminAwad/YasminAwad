@@ -6,7 +6,8 @@
 </div>
 </body>
 
-<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="40px"> ### [yasmin5198](https://www.instagram.com/yasmin5198/)
+<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="20px"> [yasmin5198](https://www.instagram.com/yasmin5198/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my exams
