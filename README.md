@@ -1,5 +1,10 @@
-# 🌱 welcome 🌱
-<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG" width="400" height="400" />
+<body>
+<h1 align="center">~ 🌱 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🌱 ~</h1>
+<br>
+<div align="center">
+<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2522.PNG" width="400" height="400" />
+</div>
+</body>
 
 Here are some ideas to get you started:
 
