@@ -29,4 +29,4 @@ I am a 23yo girl, currently attending the Master's Degree in Computer Science En
 - ⚡ Fun fact: ...
 
 ### Thank you for visiting!
-<img align="left" src="https://64.media.tumblr.com/0b7096c59ec779e46f4c6ece4b53cd65/2d2448c0483c0505-78/s500x750/245c7822070ae50f718fc30876a376229313a801.gifv" width="200px">
+<img align="left" src="https://64.media.tumblr.com/0b7096c59ec779e46f4c6ece4b53cd65/2d2448c0483c0505-78/s500x750/245c7822070ae50f718fc30876a376229313a801.gifv" width="150px">
