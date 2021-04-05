@@ -6,6 +6,7 @@
 </div>
 </body>
 
+<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="40px"> ### You can find me on instagram! [<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.instagram.com/yasmin5198/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my exams
@@ -16,6 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-
-
-[<img src="https://img.icons8.com/dusk/64/000000/instagram.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.instagram.com/yasmin5198/)
