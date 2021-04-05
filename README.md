@@ -1,5 +1,5 @@
 # 🌱 welcome 🌱
-<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG" width="400" height="400" />
+<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2522.PNG" width="400" height="400" />
 
 Here are some ideas to get you started:
 
