@@ -18,6 +18,7 @@ I am a 23yo girl, currently attending the Master's Degree in Computer Science En
 
 ### About me:
 <img align="right" src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="460px">
+
 - 🔭 I’m currently working on my exams (__HELP__)
 - 🌱 I’m currently learning: 3D Graphics and Japanese
 - 👯 I’m looking for Japanese learners!
