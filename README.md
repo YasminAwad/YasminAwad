@@ -1,4 +1,9 @@
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">WELCOME</span>
+---
+output:
+  html_document:
+    css: style.css
+---
+<h1>WELCOME< /h1>
 <img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG" width="400" height="400" />
 
 <!--
