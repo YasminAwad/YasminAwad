@@ -9,9 +9,13 @@
 </body>
 
 # Hello✨
+<body>
+<div>
 <img align="left" src="https://c.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="50px">
 I am a 23yo girl, currently attending the Master's Degree in Computer Science Engineering at the 'Politecnico di Milano' University. I got my Bachelor's Degree in Computer Science Engineering in 2020 at the 'Università degli Studi di Firenze'.
-<br>
+</div>
+</body>
+
 
 - 🔭 I’m currently working on my exams (__HELP__)
 - 🌱 I’m currently learning: 3D Graphics and Japanese
