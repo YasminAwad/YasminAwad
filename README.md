@@ -1,5 +1,5 @@
 ### __*WELCOME*__
-<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG" width="200" height="200" />
+<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/flyday.PNG" width="400" height="400" />
 
 <!--
 **YasminAwad/YasminAwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
