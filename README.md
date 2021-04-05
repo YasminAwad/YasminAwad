@@ -2,7 +2,7 @@
 <h1 align="center">~ 🌱 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🌱 ~</h1>
 <br>
 <div align="center">
-<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2522.PNG" width="400" height="400" />
+<img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="600" />
 </div>
 </body>
 
