@@ -16,7 +16,7 @@ I am a 23yo girl, currently attending the Master's Degree in Computer Science En
 </div>
 </body>
 
-### About me:
+## About me:
 <img align="right" src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="440px">
 
 - 🔭 I’m currently working on my exams (__HELP__)
@@ -33,5 +33,5 @@ I am a 23yo girl, currently attending the Master's Degree in Computer Science En
 <p style="font-size:30px;"> Thank you for visiting me! </p>
 </div> 
 </body>
-#### Thank you for visiting me!
+### Thank you for visiting me!
 <img align="left" src="https://64.media.tumblr.com/0b7096c59ec779e46f4c6ece4b53cd65/2d2448c0483c0505-78/s500x750/245c7822070ae50f718fc30876a376229313a801.gifv" width="200px">
