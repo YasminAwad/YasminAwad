@@ -12,8 +12,8 @@
 </div> 
 </body>
 
-# Hello 🌱
-I am a 23yo girl, currently attending the Master in Computer Science Engineering Politecnico di Milano University. I got my Bachelor's degree in Computer Science Engineering in 2020 at the University of Florence.
+# Hello✨
+I am a 23yo girl, currently attending the Master in Computer Science Engineering at the 'Politecnico di Milano' University. I got my Bachelor's degree in Computer Science Engineering in 2020 at the 'Università degli Studi di Firenze'.
 
 - 🔭 I’m currently working on my exams
 - 🌱 I’m currently learning: 3D Graphics and Japanese language learning
