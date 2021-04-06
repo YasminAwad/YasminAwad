@@ -4,7 +4,7 @@
 <img src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="550" />
 </div> 
 <div align="center">
-<p style="font-size:50px;"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a><img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="40px"></p>
+<p style="font-size:50px;"> <a href="https://www.instagram.com/yasmin5198/" style="font-size:100px;">yasmin5198</a><img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"></p>
 </div> 
 </body>
 
