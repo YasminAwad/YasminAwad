@@ -13,7 +13,8 @@ I am a 23yo girl, currently attending the Master's Degree in Computer Science En
 - 🌱 I’m currently learning: Japanese
 - 👯 I’m looking for Japanese learners!
 - 😄 Pronouns: she/her
-
+<p></p>
+<p></p>
 <p align="right" style="font-size:50px;"> <a href="https://www.instagram.com/yayatteyonde/" style="font-size:100px;">yayatteyonde</a><img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"></p>
 
 ### Thank you for visiting!
