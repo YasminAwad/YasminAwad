@@ -7,7 +7,7 @@ I am a 23yo girl, currently attending the Master's Degree in Computer Science En
 </body>
 
 ## About me:
-<img align="right" src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="400" /> 
+<img align="right" src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="350" /> 
 
 - 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing (__HELP__)
 - 🌱 I’m currently learning: Japanese
