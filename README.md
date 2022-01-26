@@ -9,7 +9,7 @@ I am a 24yo girl, currently attending the Master's Degree in Computer Science En
 ## About me:
 <img align="right" src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="350" /> 
 
-- 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing (__HELP__)
+- 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing
 - 🌱 I’m currently learning: Japanese
 - 👯 I’m looking for Japanese learners!
 - 😄 Pronouns: she/her
