@@ -2,7 +2,7 @@
 <body>
 <div>
 <img align="left" src="https://c.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="50px">
-I am a 25yo girl, currently attending the Master's Degree in Computer Science Engineering at Politecnico di Milano University. I am participating in a Double Degree program with Doshisha University in Japan. I got my Bachelor's Degree in Computer Science Engineering in 2020 at the University of Florence.
+I am a 26yo girl, currently working at RUTILEA (Kyoto, Japan). I ended my studies in April 2024, concluding my Double Degree program in computer science engineering at Politecnico di Milano (Italy) University and Doshisha University (Japan). I got my Bachelor's Degree in Computer Science Engineering in 2020 at the University of Florence.
 </div>
 </body>
 
