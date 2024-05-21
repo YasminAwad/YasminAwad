@@ -9,8 +9,8 @@ I am a 26yo girl, currently working at RUTILEA (Kyoto, Japan). I ended my studie
 ## About me:
 <img align="right" src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="350" /> 
 
-- 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing
-- 🌱 I’m currently learning: Japanese, UX Design
+- 🔭 I am developing a videogame on Godot as a side work project
+- 🌱 I’m currently learning: Javascript, Google Cloud, Data Structures (reviewing), and Ukulele songss
 - 👯 I’m looking for Japanese learners!
 - 😄 Pronouns: she/her
 <p></p>
