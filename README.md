@@ -21,6 +21,8 @@ Learning Todos:
 - [x] FastAPI
 - [x] Docker
 - [ ] Data Structures Review
+- [ ] React
+- [ ] Pytorch review
 <p></p>
 <p align="left" style="font-size:50px;"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"><a href="https://www.instagram.com/yayatteyonde/" style="font-size:100px;">yayatteyonde</a></p>
 
