@@ -4,6 +4,7 @@
 <img align="left" src="https://c.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="50px">
 🌸 I’m a 27-year-old engineer who completed a Double Degree in Computer Science Engineering at Politecnico di Milano (Italy) and Doshisha University (Japan) in April 2024.
 
+
 🌼 After a year and a half of experience as a Full Stack AI Software Developer in Kyoto, I’m now back in Italy, enjoying the summer with the people I love most.
 
 🌷 I can’t wait to get back on track and see what the future holds! In the meantime, I’m diving into web development — my new personal website is on its way!
