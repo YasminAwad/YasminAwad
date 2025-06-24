@@ -2,7 +2,7 @@
 <body>
 <div>
 <img align="left" src="https://c.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="50px">
-🌸 I’m a 27-year-old engineer who completed a Double Degree in Computer Science Engineering at Politecnico di Milano (Italy) and Doshisha University (Japan) in April 2024.
+I’m a 27yo engineer who completed a Double Degree in Computer Science Engineering at Politecnico di Milano (Italy) and Doshisha University (Japan) in April 2024.
 
 <be><br>
 
