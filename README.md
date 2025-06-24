@@ -23,10 +23,10 @@ I’m a 27yo engineer who completed a Double Degree in Computer Science Engineer
 <p></p>
 <p align="left" style="font-size:50px;">
   <!-- Instagram -->
-   <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"><a href="https://www.instagram.com/yapinyapon/" style="font-size:100px;">yapinyapon</a></p>
+   <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"><a href="https://www.instagram.com/yapinyapon/" style="font-size:18px;">yapinyapon</a></p>
   <!-- YouTube -->
   <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35px">
-  <a href="https://www.youtube.com/@yapinyapon" style="font-size:100px; text-decoration:none;">yapinyapon</a>
+  <a href="https://www.youtube.com/@yapinyapon" style="font-size:18px; text-decoration:none;">yapinyapon</a>
 </p>
 
 ### Thank you for visiting!
