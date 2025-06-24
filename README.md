@@ -21,12 +21,6 @@ I’m a 27yo engineer who completed a Double Degree in Computer Science Engineer
 - 😄 Pronouns: she/her
 <p></p>
 <p></p>
-- [x] FastAPI
-- [x] Docker
-- [ ] Data Structures Review
-- [ ] React
-- [ ] Pytorch review
-<p></p>
 <p align="left" style="font-size:50px;"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"><a href="https://www.instagram.com/yayatteyonde/" style="font-size:100px;">yayatteyonde</a></p>
 
 ### Thank you for visiting!
