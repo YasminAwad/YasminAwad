@@ -8,7 +8,7 @@ I’m a 27yo engineer who completed a Double Degree in Computer Science Engineer
 
 🌼 After a year and a half of experience as a Full Stack AI Software Developer in Kyoto, I’m now back in Italy, enjoying the summer with the people I love most. Looking for new opportunities!
 
-🌷 I can’t wait to get back on track and see what the future holds! In the meantime, I’m keep diving into AI development and starting with web development — my new personal website is on its way!
+🌷 I can’t wait to get back on track and see what the future holds! In the meantime, I keep diving into AI development and starting with web development — my new personal website is on its way!
 </div>
 </body>
 
