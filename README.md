@@ -6,17 +6,17 @@ I’m a 27yo engineer who completed a Double Degree in Computer Science Engineer
 
 <be><br>
 
-🌼 After a year and a half of experience as a Full Stack AI Software Developer in Kyoto, I’m now back in Italy, enjoying the summer with the people I love most.
+🌼 After a year and a half of experience as a Full Stack AI Software Developer in Kyoto, I’m now back in Italy, enjoying the summer with the people I love most. Looking for new opportunities!
 
-🌷 I can’t wait to get back on track and see what the future holds! In the meantime, I’m diving into web development — my new personal website is on its way!
+🌷 I can’t wait to get back on track and see what the future holds! In the meantime, I’m keep diving into AI development and starting with web development — my new personal website is on its way!
 </div>
 </body>
 
 ## About me:
 <img align="right" src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="350" /> 
 
-- 🔭 I am developing my personal website in React and Laravel
-- 🌱 I’m currently learning: React, Laravel, AgenticAI, Kubernetes, and Ukulele songs
+- 🔭 The study of Kanji is kinda hard for me, so I decided to start developing my personal AI Kanji tutor. Fingers crossed!
+- 🌱 I’m currently learning: C#, React, Kubernetes, and Japanese
 - 📚 Reading: System Design Interview An Insider’s Guide - by Alex Xu
 - 😄 Pronouns: she/her
 <p></p>
